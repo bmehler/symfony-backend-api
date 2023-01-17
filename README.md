@@ -5,13 +5,13 @@
 To install clone the github repository
 
 ```php
-git clone https://github.com/bmehler/symfonyApi.git
+git clone https://github.com/bmehler/symfony-backend-api.git
 ```
 
 Change to the cloned folder and use the composer
 
 ```php
-cd symfonyapi
+cd <Directory>
 composer install
 ```
 
